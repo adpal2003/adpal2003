@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/max/1400/1*unmVsOH7qujPeBwFN5Y2Zw.png)](https://adpal2003.io)
+[![MasterHead]()](https://adpal2003.io)
 <h1 align="center">Hi 👋, I'm Adarsh Pal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
